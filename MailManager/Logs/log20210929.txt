@@ -137,3 +137,14 @@ Hi Task
 2021-09-29 20:11:03.130 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
 Hi Task
 
+2021-09-29 20:18:46.718 +04:00 [INF] Messages have been sending...
+2021-09-29 20:18:47.194 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-29 20:18:47.203 +04:00 [INF] Hosting environment: Development
+2021-09-29 20:18:47.212 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-29 20:18:47.264 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-29 20:18:47.303 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-29 20:18:47.393 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-29 20:18:47.403 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-29 20:18:47.455 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 54.5474ms
+2021-09-29 20:18:47.457 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-29 20:18:47.468 +04:00 [INF] Request finished in 209.9604ms 200 application/json; charset=utf-8

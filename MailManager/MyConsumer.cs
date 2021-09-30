@@ -43,8 +43,9 @@ namespace MailManager
 
         public void GetMails()
         {
+            Thread.Sleep(5000);
             Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
-
+            
             client = new ImapClient("imap.gmail.com", _consumerOptions.Email, _consumerOptions.Password, AuthMethods.Login, 993, true);
 
             client.SelectMailbox("INBOX");
@@ -53,7 +54,7 @@ namespace MailManager
 
             int uid = client.GetMessageCount() - 1;
 
-            for (int i = 0; i < 5; i++)
+            for (int i = 0; i < 20; i++)
             {
                 messages.Add(client.GetMessage(uid - i));
             }

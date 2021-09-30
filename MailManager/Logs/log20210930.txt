@@ -1,0 +1,237 @@
+2021-09-30 14:56:56.523 +04:00 [INF] Messages have been sending...
+2021-09-30 14:56:57.231 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-30 14:56:57.245 +04:00 [INF] Hosting environment: Development
+2021-09-30 14:56:57.246 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-30 14:56:57.331 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-30 14:56:57.393 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 14:56:57.554 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-30 14:56:57.570 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-30 14:56:57.655 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 93.4416ms
+2021-09-30 14:56:57.657 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 14:56:57.666 +04:00 [INF] Request finished in 342.6988ms 200 application/json; charset=utf-8
+2021-09-30 14:56:58.697 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/favicon.ico  
+2021-09-30 14:56:58.701 +04:00 [INF] Request finished in 4.4425ms 404 
+2021-09-30 14:58:41.967 +04:00 [INF] Messages have been sending...
+2021-09-30 14:58:42.172 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-30 14:58:42.182 +04:00 [INF] Hosting environment: Development
+2021-09-30 14:58:42.190 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-30 14:58:42.219 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-30 14:58:42.251 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 14:58:42.301 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-30 14:58:42.307 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-30 14:58:42.340 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 34.1929ms
+2021-09-30 14:58:42.345 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 14:58:42.352 +04:00 [INF] Request finished in 136.1351ms 200 application/json; charset=utf-8
+2021-09-30 14:58:42.397 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/favicon.ico  
+2021-09-30 14:58:42.399 +04:00 [INF] Request finished in 1.9779ms 404 
+2021-09-30 15:00:58.494 +04:00 [INF] Messages have been sending...
+2021-09-30 15:00:58.894 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-30 15:00:58.907 +04:00 [INF] Hosting environment: Development
+2021-09-30 15:00:58.916 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-30 15:00:58.960 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-30 15:00:59.059 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:00:59.159 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-30 15:00:59.173 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-30 15:00:59.232 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 67.0972ms
+2021-09-30 15:00:59.234 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:00:59.243 +04:00 [INF] Request finished in 289.7728ms 200 application/json; charset=utf-8
+2021-09-30 15:00:59.341 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/favicon.ico  
+2021-09-30 15:00:59.343 +04:00 [INF] Request finished in 1.9049ms 404 
+2021-09-30 15:01:58.884 +04:00 [INF] Messages have been sending...
+2021-09-30 15:01:59.118 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-30 15:01:59.130 +04:00 [INF] Hosting environment: Development
+2021-09-30 15:01:59.140 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-30 15:01:59.185 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-30 15:01:59.229 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:01:59.278 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-30 15:01:59.286 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-30 15:01:59.318 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 34.9261ms
+2021-09-30 15:01:59.320 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:01:59.324 +04:00 [INF] Request finished in 144.7333ms 200 application/json; charset=utf-8
+2021-09-30 15:01:59.372 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/favicon.ico  
+2021-09-30 15:01:59.373 +04:00 [INF] Request finished in 1.4127ms 404 
+2021-09-30 15:02:36.468 +04:00 [INF] Messages have been sending...
+2021-09-30 15:02:36.667 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-30 15:02:36.683 +04:00 [INF] Hosting environment: Development
+2021-09-30 15:02:36.753 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-30 15:02:36.814 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-30 15:02:36.845 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:02:36.908 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-30 15:02:36.913 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-30 15:02:36.944 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 32.4869ms
+2021-09-30 15:02:36.948 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:02:36.952 +04:00 [INF] Request finished in 141.8554ms 200 application/json; charset=utf-8
+2021-09-30 15:02:37.004 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/favicon.ico  
+2021-09-30 15:02:37.007 +04:00 [INF] Request finished in 2.63ms 404 
+2021-09-30 15:09:51.785 +04:00 [INF] Messages have been sending...
+2021-09-30 15:09:51.955 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-30 15:09:51.963 +04:00 [INF] Hosting environment: Development
+2021-09-30 15:09:51.978 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-30 15:09:52.011 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-30 15:09:52.075 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:09:52.191 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-30 15:09:52.204 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-30 15:09:52.265 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 66.869ms
+2021-09-30 15:09:52.269 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:09:52.275 +04:00 [INF] Request finished in 271.8316ms 200 application/json; charset=utf-8
+2021-09-30 15:09:52.364 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/favicon.ico  
+2021-09-30 15:09:52.366 +04:00 [INF] Request finished in 2.8896ms 404 
+2021-09-30 15:10:52.395 +04:00 [INF] Messages have been sending...
+2021-09-30 15:10:52.853 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-30 15:10:52.870 +04:00 [INF] Hosting environment: Development
+2021-09-30 15:10:52.878 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-30 15:10:52.901 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-30 15:10:52.931 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:10:52.977 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-30 15:10:52.983 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-30 15:10:53.031 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 46.5017ms
+2021-09-30 15:10:53.033 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:10:53.042 +04:00 [INF] Request finished in 140.8082ms 200 application/json; charset=utf-8
+2021-09-30 15:10:53.105 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/favicon.ico  
+2021-09-30 15:10:53.107 +04:00 [INF] Request finished in 1.8503ms 404 
+2021-09-30 15:13:25.171 +04:00 [INF] Messages have been sending...
+2021-09-30 15:13:25.461 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-30 15:13:25.482 +04:00 [INF] Hosting environment: Development
+2021-09-30 15:13:25.483 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-30 15:13:25.522 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-30 15:13:25.593 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:13:25.755 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-30 15:13:25.766 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-30 15:13:25.860 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 98.2692ms
+2021-09-30 15:13:25.862 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:13:25.874 +04:00 [INF] Request finished in 356.0827ms 200 application/json; charset=utf-8
+2021-09-30 15:13:25.977 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/favicon.ico  
+2021-09-30 15:13:25.978 +04:00 [INF] Request finished in 1.3595ms 404 
+2021-09-30 15:22:44.479 +04:00 [INF] Messages have been sending...
+2021-09-30 15:22:44.652 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2021-09-30 15:22:44.661 +04:00 [INF] Hosting environment: Development
+2021-09-30 15:22:44.670 +04:00 [INF] Content root path: D:\ATL\MailManager\MailManager
+2021-09-30 15:22:44.701 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/weatherforecast  
+2021-09-30 15:22:44.728 +04:00 [INF] Executing endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:22:44.776 +04:00 [INF] Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[MailManager.WeatherForecast] Get() on controller MailManager.Controllers.WeatherForecastController (MailManager).
+2021-09-30 15:22:44.781 +04:00 [INF] Executing ObjectResult, writing value of type 'MailManager.WeatherForecast[]'.
+2021-09-30 15:22:44.813 +04:00 [INF] Executed action MailManager.Controllers.WeatherForecastController.Get (MailManager) in 32.7214ms
+2021-09-30 15:22:44.815 +04:00 [INF] Executed endpoint 'MailManager.Controllers.WeatherForecastController.Get (MailManager)'
+2021-09-30 15:22:44.820 +04:00 [INF] Request finished in 122.527ms 200 application/json; charset=utf-8
+2021-09-30 15:22:44.865 +04:00 [INF] Request starting HTTP/2.0 GET https://localhost:44310/favicon.ico  
+2021-09-30 15:22:44.867 +04:00 [INF] Request finished in 2.0389ms 404 
+2021-09-30 15:23:15.102 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.103 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.104 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.104 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:23:15.104 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.756 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.757 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.757 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.757 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.757 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.757 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.757 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.758 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.758 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.758 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.758 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.758 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.758 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.758 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.758 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.758 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.759 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.759 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.759 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+
+2021-09-30 15:24:13.759 +04:00 [INF] Email consumed with Gmail Sender - subject, body: 
+Hi Task
+

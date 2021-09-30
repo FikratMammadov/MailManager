@@ -15,6 +15,7 @@ namespace MailManager
     {
         public IConfiguration Configuration { get; }
         static GmailOption _gmailOption;
+         
         public MyProducer(IScheduleConfig<MyProducer> config, IConfiguration configuration)
             : base(config.CronExpression, config.TimeZoneInfo)
         {
@@ -37,13 +38,14 @@ namespace MailManager
         }
         public void Send()
         {
-            for (int i = 0; i < 5; i++)
+             
+            for (int i = 0; i < 20; i++)
             {
                 Thread t = new Thread(() => SendGmail("taskthread@gmail.com"));
-
                 t.Start();
                 Thread.Sleep(500);
             }
+             
         }
 
         public void SendGmail(string MessageTo)
